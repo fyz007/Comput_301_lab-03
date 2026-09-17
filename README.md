@@ -2,16 +2,16 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Aidan Dai>`
+- **CCID:** `<aydai>`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+List any resources used here, or simply put `N/A` if not applicable. google
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
+| `Cyrus Dingle`| `cdingle` |
 | `<Add more>` | `<CCID>`  |
